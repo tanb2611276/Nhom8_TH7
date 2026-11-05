@@ -3,7 +3,7 @@
 
 ---
 
-## 📑 I. CÁC BÀI THỰC HÀNH ĐÃ HOÀN THÀNH
+##  I. CÁC BÀI THỰC HÀNH ĐÃ HOÀN THÀNH
 
 ### 1. Bài 1: Khởi động hợp tác trực tuyến trên Google Docs
 * Tham gia hợp tác trực tuyến trên file Google Docs do Giảng viên khởi tạo.
@@ -30,7 +30,7 @@
 
 ---
 
-## 📁 II. DANH SÁCH TẬP TIN DỰ ÁN
+##  II. DANH SÁCH TẬP TIN DỰ ÁN
 
 Các tập tin báo cáo chi tiết được đính kèm trong thư mục dự án gồm:
 
