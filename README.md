@@ -34,7 +34,7 @@
 
 Các tập tin báo cáo chi tiết được đính kèm trong thư mục dự án gồm:
 
-1. **`BaoCao_TongHop_Nhom.docx`**: File tổng hợp danh sách nhóm, đường link Bài 1, Bài 2, đường link Google Sites (Bài 3) của 4 thành viên và nội dung báo cáo Bài 5.
+1. **`KetQuaXuatTrello.PDF`**: File kết quả của Trello được tạo của bài 5.
 2. **`BaoCao_Bai4_QuanLyCongViec.docx`**: File chi tiết mô tả và hướng dẫn cách quản lý công việc (Bài 4).
 
 ---
